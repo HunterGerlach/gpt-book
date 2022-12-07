@@ -1,0 +1,5 @@
+.env
+gpt-lambda-package.zip
+__pycache__/*
+.venvs/*
+package/*
